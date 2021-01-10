@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.COOK.it" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/orange_100</item>
+        <item name="colorPrimaryDark">@color/orange_200</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange_100</item>
+        <item name="colorSecondaryVariant">@color/orange_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryDark</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Headline24dp">
+        <item name="android:textSize">@dimen/abc_text_size_headline_material</item>
+        <item name="android:fontFamily">@font/poppins_bold</item>
+        <item name="android:textColor">?colorOnSecondary</item>
+    </style>
+    <style name="Headline34dp">
+        <item name="android:textSize">@dimen/abc_text_size_display_1_material</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:textColor">?colorPrimary</item>
+    </style>
+</resources>

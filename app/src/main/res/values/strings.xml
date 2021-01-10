@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">简厨</string>
+    <string name="preparation_time">准备所需时间: %1$s</string>
+    <string name="cooking_time">制作所需时间: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chintan_parmar">Group A9</string>
+    <string name="developed_by">Developed by</string>
+    <string name="version">Version</string>
+    <string name="_1_0_0">1.0.0</string>
+    <string name="about">关于</string>
+    <string name="time_to_cook">做饭时间来咯!</string>
+    <string name="cook_notification_channel_id">cook_it</string>
+    <string name="breakfast">早餐</string>
+    <string name="dinner">晚餐</string>
+    <string name="lunch">午餐</string>
+</resources>
