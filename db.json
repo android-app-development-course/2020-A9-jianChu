@@ -1,0 +1,44 @@
+{
+  "recipes": [
+    {
+      "prepTime": "1 Min",
+      "ingredients": "泡面 1包\\n沸水 若干",
+      "stepsGuide": "（1）撕开包装，下碗，下调味料\\n（2）倒入沸水\\n（3）盖上盖子，等待3分钟\\n（4）品尝",
+      "id": 1,
+      "title": "泡面",
+      "cookingTime": "3 Mins",
+      "cover": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58bc2128c44bf.png%21%2Ffwfh%2F800x650%2Fquality%2F90%2Funsharp%2Ftrue%2Fcompress%2Ftrue&refer=http%3A%2F%2Fpic.90sjimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611710028&t=f49b44a3251df78a0b2aa2db85657780",
+      "category": "breakfast"
+    },
+    {
+      "id": 2,
+      "title": "蛋炒饭",
+      "cookingTime": "10 Mins",
+      "cover": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.51yuansu.com%2Fpic3%2Fcover%2F00%2F89%2F39%2F58dba8bab3150_610.jpg&refer=http%3A%2F%2Fpic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611709312&t=e83205331cfc01c5a7e7e90e34a21a06",
+      "prepTime": "10 Mins",
+      "ingredients": "鸡蛋 1个\\n米饭 若干",
+      "stepsGuide": "（1）搅蛋\\n（2）炒饭\\n（3）倒入鸡蛋\\n（4）加酱油\\n（5）品尝",
+      "category": "lunch"
+    },
+    {
+      "prepTime": "15 Mins",
+      "stepsGuide": "（1）番茄去皮，切块\\n（2）搅蛋\\n（3）炒番茄\\n（4）倒入鸡蛋\\n（5）加盐\\n（6）品尝",
+      "ingredients": "番茄 3-4个\\n鸡蛋 1-2个",
+      "id": 3,
+      "title": "番茄炒蛋",
+      "category": "lunch",
+      "cookingTime": "10 Mins",
+      "cover": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1830401615,460288566&fm=26&gp=0.jpg"
+    },
+    {
+      "prepTime": "25 Mins",
+      "stepsGuide": "（1）杀鱼，去脏\\n（2）葱切丝，姜切片\\n（3）把鱼摆盘，下姜葱\\n（4）烧一锅水，水开后隔水蒸15分钟\\n（5）在另一个锅中加入适量酱油和油，加热至沸腾，倒在蒸好的鱼上面\\n（6）品尝",
+      "ingredients": "鱼 1条\\n葱、姜 适量",
+      "id": 4,
+      "title": "蒸鱼",
+      "category": "dinner",
+      "cookingTime": "15 Mins",
+      "cover": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=986403991,1869625963&fm=26&gp=0.jpg"
+    }
+  ]
+}
